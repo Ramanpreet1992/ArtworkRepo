@@ -1,4 +1,6 @@
-
+## To run
+To run the project, npm install which will install the dependencies in the node_modules folder, and then run npm run start, it will run the project in the local server.
+ 
 ## Technologies used
 
 - React
