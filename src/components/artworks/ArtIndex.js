@@ -150,7 +150,6 @@ const ArtIndex = () => {
         <Pagination.Item active>{pageNumber}</Pagination.Item>
         <Pagination.Item onClick={handleClickNext} >{pageNumber + 1}</Pagination.Item>
         <Pagination.Next onClick={handleClickNext} />
-        <ArtShow pageNumber={pageNumber} />
       </Pagination>
 
     </Container >
