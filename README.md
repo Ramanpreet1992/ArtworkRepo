@@ -18,6 +18,8 @@
 
 ### Main page
 
+ArtIndex is the main page comprising of list of 10 elements and pagination is to see more elements.
+ArtShow is the details page which shows the element description
 
 Most of the structure and styling was done with Bootstrap/React Bootstrap.
 
